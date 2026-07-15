@@ -1,0 +1,5 @@
+workspace_root = "workspace"
+max_file_size_mb = 50
+allowed_extensions = [".py", ".md", ".json", ".csv", ".txt", ".toml", ".zip"]
+log_level = "INFO"
+template_dir = "templates"

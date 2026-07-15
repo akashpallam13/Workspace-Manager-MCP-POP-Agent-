@@ -1,0 +1,1 @@
+"""Workspace Manager MCP package."""
